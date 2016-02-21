@@ -1,0 +1,4 @@
+Command:
+1) init - for inializaion
+1) log - commits
+2) status - changes of files
