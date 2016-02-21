@@ -5,3 +5,4 @@ git config user.name "someone"
 2) log - commits
 3) status - changes of files
 4) add -  adding file in saging 
+5) commit -m "message"
