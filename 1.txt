@@ -1,4 +1,7 @@
 Command:
 1) init - for inializaion
-1) log - commits
-2) status - changes of files
+git config user.name "someone"
+3.git config user.email "someone@someplace.com"
+2) log - commits
+3) status - changes of files
+4) add -  adding file in saging 
