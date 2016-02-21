@@ -6,3 +6,7 @@ git config user.name "someone"
 3) status - changes of files
 4) add -  adding file in saging 
 5) commit -m "message"
+6) -diff : difference beween stagin and workare
+7) - diff commit id: diff between commits\
+8)diff -- staged : diff between stagin and repoitory
+9) reset --hard : revert changes in working or staging
