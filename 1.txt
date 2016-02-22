@@ -6,3 +6,4 @@ git config user.name "someone"
 3) status - changes of files
 4) add -  adding file in saging 
 5) commit -m "message"
+6) Branch logic is below
