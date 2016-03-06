@@ -14,3 +14,4 @@ git config user.name "someone"
 branch
 branch : dispaly all branches, * indicates current branch
 checkout branch : change between branches
+commits from all branches: log --graph --oneline maser texp
